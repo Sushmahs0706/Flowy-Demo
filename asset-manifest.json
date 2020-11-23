@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Flowy-Demo/static/css/main.d1e89f92.chunk.css",
+    "main.js": "/Flowy-Demo/static/js/main.49b7c5ca.chunk.js",
+    "main.js.map": "/Flowy-Demo/static/js/main.49b7c5ca.chunk.js.map",
+    "runtime-main.js": "/Flowy-Demo/static/js/runtime-main.a416f07f.js",
+    "runtime-main.js.map": "/Flowy-Demo/static/js/runtime-main.a416f07f.js.map",
+    "static/js/2.bb1a9dab.chunk.js": "/Flowy-Demo/static/js/2.bb1a9dab.chunk.js",
+    "static/js/2.bb1a9dab.chunk.js.map": "/Flowy-Demo/static/js/2.bb1a9dab.chunk.js.map",
+    "static/js/3.6d33e555.chunk.js": "/Flowy-Demo/static/js/3.6d33e555.chunk.js",
+    "static/js/3.6d33e555.chunk.js.map": "/Flowy-Demo/static/js/3.6d33e555.chunk.js.map",
+    "index.html": "/Flowy-Demo/index.html",
+    "static/css/main.d1e89f92.chunk.css.map": "/Flowy-Demo/static/css/main.d1e89f92.chunk.css.map",
+    "static/js/2.bb1a9dab.chunk.js.LICENSE.txt": "/Flowy-Demo/static/js/2.bb1a9dab.chunk.js.LICENSE.txt",
+    "static/media/action.967590fc.svg": "/Flowy-Demo/static/media/action.967590fc.svg",
+    "static/media/arrow.32b00690.svg": "/Flowy-Demo/static/media/arrow.32b00690.svg",
+    "static/media/checkoff.f428524f.svg": "/Flowy-Demo/static/media/checkoff.f428524f.svg",
+    "static/media/checkon.f50595e1.svg": "/Flowy-Demo/static/media/checkon.f50595e1.svg",
+    "static/media/close.06dd9fd6.svg": "/Flowy-Demo/static/media/close.06dd9fd6.svg",
+    "static/media/closeleft.e9cdcb4c.svg": "/Flowy-Demo/static/media/closeleft.e9cdcb4c.svg",
+    "static/media/database.832a8936.svg": "/Flowy-Demo/static/media/database.832a8936.svg",
+    "static/media/dropdown.ad366948.svg": "/Flowy-Demo/static/media/dropdown.ad366948.svg",
+    "static/media/error.6dad6706.svg": "/Flowy-Demo/static/media/error.6dad6706.svg",
+    "static/media/eye.e3402cb6.svg": "/Flowy-Demo/static/media/eye.e3402cb6.svg",
+    "static/media/grabme.7fbd6c34.svg": "/Flowy-Demo/static/media/grabme.7fbd6c34.svg",
+    "static/media/heart.7559bb81.svg": "/Flowy-Demo/static/media/heart.7559bb81.svg",
+    "static/media/log.115e5dbd.svg": "/Flowy-Demo/static/media/log.115e5dbd.svg",
+    "static/media/search.823a01a5.svg": "/Flowy-Demo/static/media/search.823a01a5.svg",
+    "static/media/index.css": "/Flowy-Demo/static/media/tile.fbe7a47e.png",
+    "static/media/time.7aa4c99c.svg": "/Flowy-Demo/static/media/time.7aa4c99c.svg",
+    "static/media/twitter.561e0f0f.svg": "/Flowy-Demo/static/media/twitter.561e0f0f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a416f07f.js",
+    "static/js/2.bb1a9dab.chunk.js",
+    "static/css/main.d1e89f92.chunk.css",
+    "static/js/main.49b7c5ca.chunk.js"
+  ]
+}
