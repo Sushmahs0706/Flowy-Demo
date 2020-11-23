@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+/* eslint-disable jsx-a11y/alt-text */
+import React from 'react';
+import Navbar from './components/navbar';
+import Propwrap from './components/properties';
+import Sidebar from './components/sidebar';
 
-function App() {
+const App = () => {
+  const handleCanvas = (e) => {
+    if(e.target.closest(".blockelem") !== null) {
+      document.getElementById("properties").classList.add("expanded");
+      document.getElementById("propwrap").classList.add("itson");
+    }
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar />
+      <Sidebar />
+      <Propwrap />
+      <div id="canvas" onClick={(e) => handleCanvas(e)}></div>
     </div>
   );
 }
